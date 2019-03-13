@@ -241,7 +241,7 @@
 * [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
 * [ELKstack 中文指南](https://github.com/chenryn/ELKstack-guide-cn)
 * [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
-* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [Mastering Elasticsearch(中文版)](https://legacy.gitbook.com/book/wizardforcel/mastering-elasticsearch/details)
 * [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
 
 
